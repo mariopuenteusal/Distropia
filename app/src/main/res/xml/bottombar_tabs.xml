@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <tabs>
+        <tab
+            id="@+id/tab_references"
+            icon="@mipmap/ic_reference"
+            title="References"
+            barColorWhenSelected="#000000"
+            activeColor= "#FFFFFF"/>
+        <tab
+            id="@+id/tab_statistics"
+            icon="@mipmap/ic_add_icon"
+            title="Statistics"
+            barColorWhenSelected="#000000"
+            activeColor= "#FFFFFF"
+            />
+    </tabs>
+
+</PreferenceScreen>
